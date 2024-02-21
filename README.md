@@ -1,3 +1,4 @@
+[![Build C++](https://github.com/wmmoua/ColorPalette/actions/workflows/action.yml/badge.svg)](https://github.com/wmmoua/ColorPalette/actions/workflows/action.yml)
 # ColorPalette
 
 This is a simple C++ program for managing a collection or palette of RGB colors.
